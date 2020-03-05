@@ -1,9 +1,10 @@
 import React from "react"
-import Login from "../components/login"
+import Hello from "../components/hello"
+import Sign from "./sign"
 
 const App = () => (
-  <div>
-    <Login></Login>
+  <div className="app">
+    <Hello name="may"></Hello>
   </div>
 )
 

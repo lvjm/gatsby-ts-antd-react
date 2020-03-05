@@ -1,0 +1,37 @@
+.app {
+  /* background-color: lightskyblue; */
+  height: 820px;
+  line-height: 820px;
+  text-align: center;
+  vertical-align: middle;
+}
+.hello {
+  margin-left: 100px;
+  font-size: 50px;
+  font-family: "Courier New", Courier, monospace !important;
+}
+
+.-form {
+  /* background-color: lightskyblue; */
+  vertical-align: middle !important;
+  height: 820px !important;
+  line-height: 820px !important;
+  padding: 300px !important;
+  padding-top: 200px !important;
+}
+.ant-form-item-label > label {
+  font-size: 18px !important;
+  /* color: rgb(0, 123, 255) !important; */
+}
+a {
+  color: aliceblue;
+}
+a:link {
+  color: aliceblue;
+}
+a:active {
+  color: rgb(0, 145, 255) !important;
+}
+a:hover {
+  color: rgb(0, 145, 255) !important;
+}

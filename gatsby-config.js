@@ -7,6 +7,7 @@
 module.exports = {
   /* Your site config here */
   plugins: [
+    `gatsby-plugin-antd`,
     `gatsby-plugin-typescript`,
     {
       resolve: "gatsby-source-graphql",
