@@ -16,7 +16,7 @@
   "dependencies": {
     "@types/react-redux": "^7.1.7",
     "antd": "^4.0.0",
-    "gatsby": "^2.19.7",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-antd": "^2.2.0",
     "gatsby-plugin-react-helmet": "^3.1.22",
     "gatsby-plugin-typescript": "^2.2.0",
